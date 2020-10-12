@@ -29,6 +29,8 @@ We built our own database of locations and incorporated several API’s to pull 
 
 Users could sign up for an account to be able to save, favourite and comment on destinations, as well as submit new holiday locations to the database, implementing CRUD (create, read, update, delete) functionality into our site.
 
+## Made in collaboration with:
+ [Siu Kei Tam](https://github.com/tams2429) & [Eliza Thompson](https://github.com/Elizathompson)
 
 ## Resources:
 
