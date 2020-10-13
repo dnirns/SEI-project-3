@@ -20,6 +20,24 @@
 * MongoDB / Mongoose
 * Bcrypt & JWT Auth
 
+## Demo:
+
+Home page and finding a destination:
+
+![home](./frontend/assets/readme-gifs/project-3-demo-1.gif)
+
+Commenting on a destinataion:
+
+![comment](./frontend/assets/readme-gifs/project-3-demo-comment.gif)
+
+Create a destination:
+
+![create](./frontend/assets/readme-gifs/project-3-demo-create-city.gif)
+
+Profile page:
+
+![comment](./frontend/assets/readme-gifs/project-3-demo-profile.gif)
+
 ## Overview:
 Working in a group of 3, we decided upon building a travel site to help find users a holiday destination.
 
